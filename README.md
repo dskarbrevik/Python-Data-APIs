@@ -4,7 +4,7 @@ This repo will be a collection of any libraries I have used to connect to APIs t
 
 ## List of current notebooks
 
-**Website (python library name)**
+**Ex: python-library (website service name)**
 
 flickrapi (Flickr)
 
