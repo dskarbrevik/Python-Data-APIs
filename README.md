@@ -7,10 +7,13 @@ This repo will be a collection of any libraries I have used to connect to APIs t
 **Website (python library name)**
 
 flickrapi (Flickr)
+
 praw (Reddit) 
 
 ## Possible future additions (libraries I'm interested in)
 
 tweepy (Twittter)
+
 python-twitter (Twitter)
+
 tweetstream (Twitter)
