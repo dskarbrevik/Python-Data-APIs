@@ -14,6 +14,10 @@ cassiopeia (Riot API)
 
 ipywidgets (widgets for Jupyter Notebooks)
 
+google spreadsheets API (UNDER CONSTRUCTION CURRENTLY)
+
+numpy (numerical manipulation library... very fundamentally useful for Python)
+
 ## Possible future additions (libraries I'm interested in adding)
 
 tweepy OR python-twitter OR tweetstream (Twitter API)
