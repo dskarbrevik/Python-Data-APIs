@@ -6,17 +6,17 @@ This repo will be a collection of short but sweet demos for any libraries I have
 
 **Ex: python-library (website service name)**
 
-flickrapi (Flickr API)
+* flickrapi (Flickr API)
 
-praw (Reddit API) 
+* praw (Reddit API) 
 
-cassiopeia (Riot API)
+* cassiopeia (Riot API)
 
-ipywidgets (widgets for Jupyter Notebooks)
+* ipywidgets (widgets for Jupyter Notebooks)
 
-google spreadsheets API (UNDER CONSTRUCTION CURRENTLY)
+* google spreadsheets API (UNDER CONSTRUCTION CURRENTLY)
 
-numpy (numerical manipulation library... very fundamentally useful for Python)
+* numpy (numerical manipulation library... very fundamentally useful for Python)
 
 ## Possible future additions (libraries I'm interested in adding)
 
