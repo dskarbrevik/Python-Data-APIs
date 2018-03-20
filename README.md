@@ -1,19 +1,19 @@
-# Python Data APIs
+# Python Library Demos
 
-This repo will be a collection of any libraries I have used to connect to APIs that can gather data. There will be a notebook for each API.
+This repo will be a collection of short but sweet demos for any libraries I have used for Data Science work that were helpful. This won't be limited to libraries that are only used for Data Science.   
 
 ## List of current notebooks
 
 **Ex: python-library (website service name)**
 
-flickrapi (Flickr)
+flickrapi (Flickr API)
 
-praw (Reddit) 
+praw (Reddit API) 
 
-## Possible future additions (libraries I'm interested in)
+cassiopeia (Riot API)
 
-tweepy (Twittter)
+ipywidgets (widgets for Jupyter Notebooks)
 
-python-twitter (Twitter)
+## Possible future additions (libraries I'm interested in adding)
 
-tweetstream (Twitter)
+tweepy OR python-twitter OR tweetstream (Twitter API)
